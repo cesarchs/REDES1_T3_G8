@@ -22,4 +22,9 @@
 | 12           | configurar openvpn |
 | 13           | crear clientes para cada integrante |
 
+## CAPTURAS DE PRUEBAS
+## CLIENTE 201700634
 ![ping cliente 1](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ping.jpeg)
+
+## CLIENTE 201900874
+![ping cliente 1](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ping2.jpeg)
