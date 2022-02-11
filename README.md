@@ -22,4 +22,4 @@
 | 12           | configurar openvpn |
 | 13           | crear clientes para cada integrante |
 
-![ping cliente 1](https://https://github.com/cesarchs/REDES1_T3_G8/blob/main/ping.jpeg)
+![ping cliente 1](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ping.jpeg)
