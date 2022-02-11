@@ -7,7 +7,7 @@
 ## CONFIGURACION DE LA RED PRIVADA 
 
 | PASOS| DESCRIPCION| 
-|-------------|------------------------|-
+|-------------|------------------------|
 | 1           | Crear cuenda de google cloud platform |
 | 2           | Crear proyecto |
 | 3           | Agregar integrantes a IAM |
