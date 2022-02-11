@@ -33,7 +33,7 @@
 ![ping cliente 3](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ping_201906180.JPG)
 
 ## CLIENTE 201780044
-![ping cliente 4]()
+![ping cliente 4](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ping4.jpeg)
 
 ## CAPTURAS DE IPCONFIG
 
@@ -47,4 +47,4 @@
 ![IPCONFIG cliente 3](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ipconfig_201906180.JPG)
 
 ## CLIENTE 201780044
-![IPCONFIG cliente 4]()
+![IPCONFIG cliente 4](https://github.com/cesarchs/REDES1_T3_G8/blob/main/ipconfig4.jpeg)
